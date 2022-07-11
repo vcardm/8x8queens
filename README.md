@@ -13,3 +13,6 @@ Steps:
 4. Once we know the neighbor states, we compare heurisitc value and see if any states have a lower one - if a better was not found, we reached the local minima and perform random start. 
 4a. If compared and found a lower heuristic value, then that becomes the current state. 
 5. Step 4 is repeated until no lower value is found. 
+
+Sample output:
+![sampleoutput_queens](https://user-images.githubusercontent.com/87623211/178317945-7951e967-17df-46ee-8c0a-2110bee11fb7.png)
