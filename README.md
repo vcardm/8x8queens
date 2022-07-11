@@ -1,9 +1,5 @@
 # 8x8queens
 Task: Write a program that places 8 queens on an 8x8 board where none of the queens are in conflict with each other.  You are to implement the solution by using the hill-Climbing algorithm with random restarts.
-
-Details:
-Java version: 17.0.1
-
  
 Steps:
 1.  Create an 8x8 map to begin
@@ -14,5 +10,11 @@ Steps:
 4a. If compared and found a lower heuristic value, then that becomes the current state. 
 5. Step 4 is repeated until no lower value is found. 
 
+Details:
+Language: Java version: 17.0.1
+IDE: VSCode
+
 Sample output:
+
+
 ![sampleoutput_queens](https://user-images.githubusercontent.com/87623211/178317945-7951e967-17df-46ee-8c0a-2110bee11fb7.png)
