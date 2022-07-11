@@ -13,6 +13,7 @@ Steps:
 Details:
 Language: Java version: 17.0.1
 IDE: VSCode
+Imports: No extra imports are needed - Able to run as-is
 
 Sample output:
 
